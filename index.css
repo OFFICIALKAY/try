@@ -1,0 +1,38 @@
+body{
+    background: #1D2228;
+    color: #E1E2E2;
+    width: auto;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.topic{
+    text-align: center;
+    color: #E1E2E2;
+    font-size: 60px;
+}
+.topic-2{
+    color: #E1E2E2;
+    font-size: 35px;
+    margin: 0px;
+    padding: 30px;
+    background: linear-gradient(to right, #FF6A3D, #fb8122);
+}
+.submit-btn{
+    width: 50%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    background: linear-gradient(to right,#ff105f,#ffad06);
+}
+.sub-topic{
+width: auto;
+font-size: 30px;
+font-display: italic;
+}
+ul li{
+font-size: 20px;
+}
